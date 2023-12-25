@@ -2,7 +2,7 @@
 
 A simple todo list app from Brad Trversy's 'Modern JS From The Beginning' course.
 
-Try out the app :) - https://creative-alpaca-d82176.netlify.app/
+Try out the app :) - https://effulgent-fenglisu-8029f7.netlify.app/
 
 The app includes the following functionalities:
 
